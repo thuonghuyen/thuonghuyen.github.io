@@ -13,10 +13,10 @@
             <table>
            
                 <tr>
-                    <td> Username: <input type="text" name="txtUsername" id= "txtUsername" value="" /> </td></tr>
+                    <td> Username: <input type="text" name="txtUsername" id= "txtUsername" value="HUyen" /> </td></tr>
             <tr> </tr>
             <tr>
-                <td>Password: <input type="password" name="txtPassword" id = "txtPassword" value="" /> </td>
+                <td>Password: <input type="password" name="txtPassword" id = "txtPassword" value="22121995" /> </td>
             </tr>
             <tr>
                 <td> <input type="submit" value="Login" name="btAction"/></td>
